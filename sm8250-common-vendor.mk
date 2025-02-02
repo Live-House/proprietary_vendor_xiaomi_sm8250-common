@@ -617,7 +617,6 @@ PRODUCT_PACKAGES += \
     mlid \
     msm_irqbalance \
     netmgrd \
-    nv_mac \
     pd-mapper \
     pm-proxy \
     pm-service \
